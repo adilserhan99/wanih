@@ -1,0 +1,1115 @@
+[
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB072D36D3B"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "```SUKSES!!```",
+        "contextInfo": {
+          "stanzaId": "679835D9647CB5E504C78B37EDA86FA6",
+          "participant": "6283833503621@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".refresh"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497067",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "16B366FD214178D2A0885FB885360B19"
+    },
+    "message": {
+      "conversation": "> reply('woi'("
+    },
+    "messageTimestamp": "1627497091",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB07693C232"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "SyntaxError: Unexpected end of input",
+        "contextInfo": {
+          "stanzaId": "16B366FD214178D2A0885FB885360B19",
+          "participant": "6283833503621@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "> reply('woi'("
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497091",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "AB7EB9E3C1157156EEEB0A4CE69A7294"
+    },
+    "message": {
+      "conversation": "> reply('woi')"
+    },
+    "messageTimestamp": "1627497101",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB09DEFE03F"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "woi",
+        "contextInfo": {
+          "stanzaId": "AB7EB9E3C1157156EEEB0A4CE69A7294",
+          "participant": "6283833503621@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "> reply('woi')"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497101",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "6FDAFA8B7D3FEAA7E5710E756A7B3F7A"
+    },
+    "message": {
+      "conversation": ".antidelete ctaktif"
+    },
+    "messageTimestamp": "1627497119",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB0DFD4A050"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "Antidelete telah diaktifkan di semua kontak sebelumnya!",
+        "contextInfo": {
+          "stanzaId": "6FDAFA8B7D3FEAA7E5710E756A7B3F7A",
+          "participant": "6283833503621@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".antidelete ctaktif"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497119",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB0A01C5DB7"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "   「 ANTI-DELETE 」\n\n╭──────•\n│- *NAMA :* Tin😃 \n│- *NOMER :* 6283833503621\n│- *TIPE :* Text\n│- *WAKTU :* 01:31:59\n│- *TANGGAL :* 29/07/2021\n│- *PESAN :*\n│ .antidelete ctaktif\n╰──────•",
+        "contextInfo": {
+          "participant": "0@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "LAH, DI HAPUS"
+            }
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497126",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "BBD05B50D20CBFB73AB2DD64ACD35862"
+    },
+    "message": {
+      "conversation": ".clearall"
+    },
+    "messageTimestamp": "1627497175",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6281231951590@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB0BACA509F"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "HAI OWNER!\nMuzzaBot TELAH ONLINE DENGAN PREFIX : .\n\n「 TERIMAKASIH 」"
+      }
+    },
+    "messageTimestamp": "1627497165",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB075A72629"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "*「OWNER BOT ONLY」*",
+        "contextInfo": {
+          "stanzaId": "BBD05B50D20CBFB73AB2DD64ACD35862",
+          "participant": "6283833503621@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".clearall"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497196",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "7DC428BCC8EA5988D86E7C41CE6A93F4"
+    },
+    "message": {
+      "conversation": ".antidelete ctaktif"
+    },
+    "messageTimestamp": "1627497208",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "2D6C24A1442AE643870CF6B165A2DAA3"
+    },
+    "message": {
+      "conversation": ".refresh"
+    },
+    "messageTimestamp": "1627497225",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB09F141FC7"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "*「OWNER BOT ONLY」*",
+        "contextInfo": {
+          "stanzaId": "2D6C24A1442AE643870CF6B165A2DAA3",
+          "participant": "6283833503621@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".refresh"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497225",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F4CEC299FF518FB6F93EC69FEFB1F534"
+    },
+    "message": {
+      "conversation": ".owner"
+    },
+    "messageTimestamp": "1627497240",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB0761A78F5"
+    },
+    "message": {
+      "contactMessage": {
+        "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:ItsMeMuzza\nORG:ownernya MuzzaBot;\nTEL;type=CELL;type=VOICE;waid=6281231951590:+62 812-319-51590\nEND:VCARD",
+        "contextInfo": {
+          "stanzaId": "F4CEC299FF518FB6F93EC69FEFB1F534",
+          "participant": "6283833503621@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".owner"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497240",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6283833503621@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB0D1FCCF01"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "TUH NO OWNERKU. JANGAN LUPA FOLLOW IG OWNER @farid.mhrdkaa",
+        "contextInfo": {
+          "stanzaId": "3EB0761A78F5",
+          "participant": "6285890441472@s.whatsapp.net",
+          "quotedMessage": {
+            "contactMessage": {
+              "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:ItsMeMuzza\nORG:ownernya MuzzaBot;\nTEL;type=CELL;type=VOICE;waid=6281231951590:+62 812-319-51590\nEND:VCARD",
+              "contextInfo": {
+                "stanzaId": "F4CEC299FF518FB6F93EC69FEFB1F534",
+                "participant": "6283833503621@s.whatsapp.net",
+                "quotedMessage": {
+                  "conversation": ".owner"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497240",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "1321BF32CF328D5712C881FB78BBF780"
+    },
+    "message": {
+      "conversation": ".simih on"
+    },
+    "messageTimestamp": "1627497477",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6281231951590@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB00893B706"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "HAI OWNER!\nMuzzaBot TELAH ONLINE DENGAN PREFIX : .\n\n「 TERIMAKASIH 」"
+      }
+    },
+    "messageTimestamp": "1627497463",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB04575BDD1"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "SUKSES MENGAKTIFKAN FITUR SIMIH DI GRUP INI",
+        "contextInfo": {
+          "stanzaId": "1321BF32CF328D5712C881FB78BBF780",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".simih on"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497494",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "E78264992D47BF8F2920135704ED415C"
+    },
+    "message": {
+      "conversation": "_dsssocsphsjvsup"
+    },
+    "messageTimestamp": "1627497504",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB0AD1E8091"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "iyaa nanti ku follow kok",
+        "contextInfo": {
+          "stanzaId": "E78264992D47BF8F2920135704ED415C",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "_dsssocsphsjvsup"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497508",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "8139651C8A7FCC5A2D84A7C4B642551D"
+    },
+    "message": {
+      "conversation": "Ndkdksksks"
+    },
+    "messageTimestamp": "1627497541",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "8ED5804938FF0AB4B1CA722E1A824AE2"
+    },
+    "message": {
+      "conversation": ".simih 0"
+    },
+    "messageTimestamp": "1627497550",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "6ADCF896CE1AB9084D1076661B86D7EF"
+    },
+    "message": {
+      "conversation": ".simih 1"
+    },
+    "messageTimestamp": "1627497555",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6281231951590@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB040991AEB"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "HAI OWNER!\nMuzzaBot TELAH ONLINE DENGAN PREFIX : .\n\n「 TERIMAKASIH 」"
+      }
+    },
+    "messageTimestamp": "1627497528",
+    "status": "SERVER_ACK"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB095F3F2E3"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "─「 *FORMAT SALAH* 」─\n• .simih on\nuntuk mengaktifkan\n• .simih off\nuntuk mematikan",
+        "contextInfo": {
+          "stanzaId": "8ED5804938FF0AB4B1CA722E1A824AE2",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".simih 0"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497560",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB0121FABEB"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "─「 *FORMAT SALAH* 」─\n• .simih on\nuntuk mengaktifkan\n• .simih off\nuntuk mematikan",
+        "contextInfo": {
+          "stanzaId": "6ADCF896CE1AB9084D1076661B86D7EF",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": ".simih 1"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497560",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB055973047"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : iya kakak mirnanda pesek dan manis !!",
+        "contextInfo": {
+          "stanzaId": "8139651C8A7FCC5A2D84A7C4B642551D",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ndkdksksks"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497564",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "EAF2FBB923D5FE6E01E35F346A3B3732"
+    },
+    "message": {
+      "conversation": "______"
+    },
+    "messageTimestamp": "1627497576",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB0411C4102"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Mboh",
+        "contextInfo": {
+          "stanzaId": "EAF2FBB923D5FE6E01E35F346A3B3732",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "______"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497580",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "0790936A1E950499B7C4E6CB31009918"
+    },
+    "message": {
+      "conversation": "//▬▭▬▭⸨⸩▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭"
+    },
+    "messageTimestamp": "1627497584",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "B37981E9863726C5A3262F0AA194E129"
+    },
+    "message": {
+      "conversation": "Ssss"
+    },
+    "messageTimestamp": "1627497603",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB01EFDEFCC"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : iya",
+        "contextInfo": {
+          "stanzaId": "B37981E9863726C5A3262F0AA194E129",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ssss"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497606",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "E8A997E1C6B830AADBC84DB7A8CED1D5"
+    },
+    "message": {
+      "conversation": "Hm"
+    },
+    "messageTimestamp": "1627497612",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB07DF585EB"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Kamu ngambek? Yhh jan ngambek dong:((",
+        "contextInfo": {
+          "stanzaId": "E8A997E1C6B830AADBC84DB7A8CED1D5",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Hm"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497616",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "FE4C8A096BEB37101F163B7D184306F6"
+    },
+    "message": {
+      "conversation": "Ssapvhspusvjveouvs ucsoycsohcs"
+    },
+    "messageTimestamp": "1627497626",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB0F5CD61A9"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Aku tidak mengerti apa yang kamu katakan.Tolong ajari aku.",
+        "contextInfo": {
+          "stanzaId": "FE4C8A096BEB37101F163B7D184306F6",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ssapvhspusvjveouvs ucsoycsohcs"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497630",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "192EEF5C639E86D8FA076A4A4DA3E838"
+    },
+    "message": {
+      "conversation": "Absbsjsiossksksksuiekwhsjssiusbsbops"
+    },
+    "messageTimestamp": "1627497635",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "01212408A7583BCBE374646F6281C91B"
+    },
+    "message": {
+      "conversation": "Kbeievwkwbwms jdjvswmkwncekevi"
+    },
+    "messageTimestamp": "1627497640",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB0BEA678E3"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Aku tidak mengerti apa yang kamu katakan.Tolong ajari aku.",
+        "contextInfo": {
+          "stanzaId": "192EEF5C639E86D8FA076A4A4DA3E838",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Absbsjsiossksksksuiekwhsjssiusbsbops"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497639",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB013D85BFA"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Aku tidak mengerti apa yang kamu katakan.Tolong ajari aku.",
+        "contextInfo": {
+          "stanzaId": "01212408A7583BCBE374646F6281C91B",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Kbeievwkwbwms jdjvswmkwncekevi"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497644",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "FFFAF90D9310ED0F29FF4E5F32026F15"
+    },
+    "message": {
+      "conversation": "ugshibkskbskb"
+    },
+    "messageTimestamp": "1627497645",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "D8FF552095EA88DF75DB8C9C73BDFCE0"
+    },
+    "message": {
+      "conversation": "Vjwiveohe"
+    },
+    "messageTimestamp": "1627497646",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "9368709B9F9B98BBF47E9EF017CE9CD4"
+    },
+    "message": {
+      "conversation": "Over everyone"
+    },
+    "messageTimestamp": "1627497647",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "3FD1091441213E7B6C6CEE196600719D"
+    },
+    "message": {
+      "conversation": "J"
+    },
+    "messageTimestamp": "1627497647",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "94E8E248DF03FA8E877DC955960962E0"
+    },
+    "message": {
+      "conversation": "🧊euce"
+    },
+    "messageTimestamp": "1627497648",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "96653CF9761FCF0E1AA73499D0C22050"
+    },
+    "message": {
+      "conversation": "Uce"
+    },
+    "messageTimestamp": "1627497649",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "7056CD0DD7FAFA2FAB2FC6DC53711223"
+    },
+    "message": {
+      "conversation": "EU"
+    },
+    "messageTimestamp": "1627497649",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB0FA5BCAC4"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Aku tidak mengerti apa yang kamu katakan.Tolong ajari aku.",
+        "contextInfo": {
+          "stanzaId": "FFFAF90D9310ED0F29FF4E5F32026F15",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "ugshibkskbskb"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497649",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB00D758E4E"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Aku tidak mengerti apa yang kamu katakan.Tolong ajari aku.",
+        "contextInfo": {
+          "stanzaId": "D8FF552095EA88DF75DB8C9C73BDFCE0",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Vjwiveohe"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497650",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB02CD98A19"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : semua",
+        "contextInfo": {
+          "stanzaId": "9368709B9F9B98BBF47E9EF017CE9CD4",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Over everyone"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497651",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB0C4604EFC"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Hu",
+        "contextInfo": {
+          "stanzaId": "3FD1091441213E7B6C6CEE196600719D",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "J"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497651",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB006FC4C2E"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Yess",
+        "contextInfo": {
+          "stanzaId": "96653CF9761FCF0E1AA73499D0C22050",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Uce"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497653",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB0DFB18A87"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : Eu",
+        "contextInfo": {
+          "stanzaId": "7056CD0DD7FAFA2FAB2FC6DC53711223",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "EU"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497653",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "7701DF2F50D9DC5D8160F388D3932FE0"
+    },
+    "message": {
+      "conversation": "Muzza"
+    },
+    "messageTimestamp": "1627497667",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB07F111B4E"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : tidak mengerti",
+        "contextInfo": {
+          "stanzaId": "7701DF2F50D9DC5D8160F388D3932FE0",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Muzza"
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497671",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "81E790BA6EDEBFD7442F8FCDBBFAF5EF"
+    },
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/d/f/AlmHAXKGqEHaw2z_fWC9_qeTR3Kie9Myp-CJSGBh_5u_.enc",
+        "fileSha256": "XczJErstT0xJSea9E1QgY0d+XhMseZEhD/yKj11rflU=",
+        "fileEncSha256": "Xml1iFtxOhQbKkSweImR3NUkQbx3kqypWT6YN+/zOmo=",
+        "mediaKey": "hU0gn4AhFtDCzWO05S2Y+Q/4ykPCX8txI5wYwPnXhnY=",
+        "mimetype": "image/webp",
+        "height": 64,
+        "width": 64,
+        "directPath": "/v/t62.15575-24/13149453_4173835599366872_9011447670992879116_n.enc?ccb=11-4&oh=fc2ae77a9d4b6c2a4d1e7c963752ca1a&oe=61273784",
+        "fileLength": "10660",
+        "mediaKeyTimestamp": "1627436347",
+        "isAnimated": false
+      }
+    },
+    "messageTimestamp": "1627497675",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB09C76EB2B"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : ‍SIMI NDAK TAU KAK",
+        "contextInfo": {
+          "stanzaId": "81E790BA6EDEBFD7442F8FCDBBFAF5EF",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "stickerMessage": {
+              "url": "https://mmg.whatsapp.net/d/f/AlmHAXKGqEHaw2z_fWC9_qeTR3Kie9Myp-CJSGBh_5u_.enc",
+              "fileSha256": "XczJErstT0xJSea9E1QgY0d+XhMseZEhD/yKj11rflU=",
+              "fileEncSha256": "Xml1iFtxOhQbKkSweImR3NUkQbx3kqypWT6YN+/zOmo=",
+              "mediaKey": "hU0gn4AhFtDCzWO05S2Y+Q/4ykPCX8txI5wYwPnXhnY=",
+              "mimetype": "image/webp",
+              "height": 64,
+              "width": 64,
+              "directPath": "/v/t62.15575-24/13149453_4173835599366872_9011447670992879116_n.enc?ccb=11-4&oh=fc2ae77a9d4b6c2a4d1e7c963752ca1a&oe=61273784",
+              "fileLength": "10660",
+              "mediaKeyTimestamp": "1627436347",
+              "isAnimated": false
+            }
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497678",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": false,
+      "id": "DAC5FB57D386FDDEFCF1C9CB613001FA"
+    },
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/d/f/AjQ0WX_KkjVY_BatJhInVey4z56QabY7E7QbQZEhRhjz.enc",
+        "fileSha256": "OWZj0GBY2xAJogr3mJgoEGYLU++uuMbgnba7SrTPaqk=",
+        "fileEncSha256": "Qfj/SIbR1FifFAcFysJDkXMPuOaItUDNLrgOQwQ0vXQ=",
+        "mediaKey": "+T340phxAjk5Q3ojDkvSYpGR9NlphkRqayLQEQoyt7Q=",
+        "mimetype": "image/webp",
+        "height": 64,
+        "width": 64,
+        "directPath": "/v/t62.7118-24/11669666_4341184572609922_7430567911569418720_n.enc?ccb=11-4&oh=1f7d83ae7447dd28ebbd3b5454be20ad&oe=6125C943",
+        "fileLength": "61908",
+        "mediaKeyTimestamp": "1627495649",
+        "isAnimated": false
+      }
+    },
+    "messageTimestamp": "1627497715",
+    "participant": "6281231951590@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  },
+  {
+    "key": {
+      "remoteJid": "6285890441472-1626952930@g.us",
+      "fromMe": true,
+      "id": "3EB03D8143A6"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "👱‍♀️ : ‍SIMI NDAK TAU KAK",
+        "contextInfo": {
+          "stanzaId": "DAC5FB57D386FDDEFCF1C9CB613001FA",
+          "participant": "6281231951590@s.whatsapp.net",
+          "quotedMessage": {
+            "stickerMessage": {
+              "url": "https://mmg.whatsapp.net/d/f/AjQ0WX_KkjVY_BatJhInVey4z56QabY7E7QbQZEhRhjz.enc",
+              "fileSha256": "OWZj0GBY2xAJogr3mJgoEGYLU++uuMbgnba7SrTPaqk=",
+              "fileEncSha256": "Qfj/SIbR1FifFAcFysJDkXMPuOaItUDNLrgOQwQ0vXQ=",
+              "mediaKey": "+T340phxAjk5Q3ojDkvSYpGR9NlphkRqayLQEQoyt7Q=",
+              "mimetype": "image/webp",
+              "height": 64,
+              "width": 64,
+              "directPath": "/v/t62.7118-24/11669666_4341184572609922_7430567911569418720_n.enc?ccb=11-4&oh=1f7d83ae7447dd28ebbd3b5454be20ad&oe=6125C943",
+              "fileLength": "61908",
+              "mediaKeyTimestamp": "1627495649",
+              "isAnimated": false
+            }
+          }
+        }
+      }
+    },
+    "messageTimestamp": "1627497718",
+    "status": "SERVER_ACK",
+    "participant": "6285890441472@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "62896503766001@s.whatsapp.net",
+      "fromMe": true,
+      "id": "3EB0DA16AB0B"
+    },
+    "message": {
+      "extendedTextMessage": {
+        "text": "HAI OWNER!\nMuzzaBot TELAH ONLINE DENGAN PREFIX : .\n\n「 TERIMAKASIH 」"
+      }
+    },
+    "messageTimestamp": "1631914906",
+    "status": "SERVER_ACK"
+  }
+]
